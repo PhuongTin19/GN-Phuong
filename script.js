@@ -124,11 +124,11 @@ const message = `
 
 Đêm đã khuya rồi... 🌙
 
-Hy vọng hôm nay Hân đã có thật nhiều niềm vui.
+Hy vọng hôm nay Phưn❤️ đã có thật nhiều niềm vui.
 
-Nếu hôm nay có điều gì khiến Hân mệt mỏi thì hãy để tất cả ngủ yên theo màn đêm nhé.
+Nếu hôm nay có điều gì khiến Phưn❤️ mệt mỏi thì hãy để tất cả ngủ yên theo màn đêm nhé.
 
-Chúc Hân có một giấc ngủ thật sâu,
+Chúc Phưn❤️ có một giấc ngủ thật sâu,
 những giấc mơ thật đẹp
 và thức dậy với một nụ cười thật rạng rỡ.
 
@@ -142,7 +142,7 @@ Cảm ơn vì đã dành chút thời gian để đọc những dòng này.
 
 Ngủ ngon nhé...
 
-Lê Ngọc Hân 💖
+Phưn❤️ 💖
 
 `;
 
@@ -298,5 +298,5 @@ setInterval(()=>{
 // GREETING
 // ===============================
 
-console.log("🌙 Chúc Lê Ngọc Hân ngủ ngon ❤️");
+console.log("🌙 Chúc Phưn❤️ ngủ ngon ❤️");
 
