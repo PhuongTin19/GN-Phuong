@@ -136,13 +136,7 @@ Mong ngày mai sẽ là một ngày thật nhiều may mắn,
 thật nhiều niềm vui
 và thật nhiều hạnh phúc.
 
-Cảm ơn vì đã dành chút thời gian để đọc những dòng này.
-
-❤️
-
-Ngủ ngon nhé...
-
-Phưn❤️ 💖
+Ngủ ngon nhó cục dàng😘.
 
 `;
 
