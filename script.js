@@ -121,23 +121,16 @@ window.innerWidth<768 ? 900 : 450
 // ===============================
 
 const message = `
-
 Đêm đã khuya rồi... 🌙
-
 Hy vọng hôm nay Phưn❤️ đã có thật nhiều niềm vui.
-
 Nếu hôm nay có điều gì khiến Phưn❤️ mệt mỏi thì hãy để tất cả ngủ yên theo màn đêm nhé.
-
 Chúc Phưn❤️ có một giấc ngủ thật sâu,
 những giấc mơ thật đẹp
 và thức dậy với một nụ cười thật rạng rỡ.
-
 Mong ngày mai sẽ là một ngày thật nhiều may mắn,
 thật nhiều niềm vui
 và thật nhiều hạnh phúc.
-
 Ngủ ngon nhó cục dàng😘.
-
 `;
 
 // ===============================
