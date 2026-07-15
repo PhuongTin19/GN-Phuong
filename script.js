@@ -159,7 +159,7 @@ function typeWriter(){
 
         }
 
-    },28);
+    },24);
 
 }
 
