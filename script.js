@@ -129,7 +129,6 @@ những giấc mơ thật đẹp
 và thức dậy với một nụ cười thật rạng rỡ.
 Mong ngày mai sẽ là một ngày thật nhiều may mắn,
 thật nhiều niềm vui
-và thật nhiều hạnh phúc.
 Ngủ ngon nhó cục dàng😘.
 `;
 
